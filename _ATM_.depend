@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509034700 source:c:\program files (x86)\codeblocks\_atm_\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+
